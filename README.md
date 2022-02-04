@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Mr'Wang
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C/C++/Java/Html/Css/JavaScript/Bootstrap5
+- 🌱 I’m currently learning C/C++/Python/ML/AI/Java/Html/Css/JavaScript/Bootstrap5/Vue
