@@ -14,3 +14,7 @@ Contest :
 - NPSC (參賽)
 - APCS (5+3)
 - CPE (5/7)
+Preparing :
+- ICPC
+- NCPC
+- CPE
