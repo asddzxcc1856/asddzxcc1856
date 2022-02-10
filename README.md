@@ -24,5 +24,5 @@ Online Judge :
 - ZeroJudge (353) 
 - Green Judge (232)
 - UVA Online Judge (81)
-- Codeforces (52)
+- Codeforces (64)
 - TIOJ (40)
