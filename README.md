@@ -1,9 +1,15 @@
 Introduction :
 - 👋 Hi, I’m Mr'Wang
 
-Experience :                                                      
+Educational Background :                                                      
 - 🥇 彰化高中                                                
 - 💻 中興大學電資學士班
+
+Experience :
+- 彰化高中程式競賽選手之一
+- Minecraft百人以上遊戲伺服器主 2018-2021
+- 基礎網頁設計
+- 基礎插件設計
 
 Learning : 
 - 🌱 I’m currently learning C/C++/Python/Java/Html/Css/JavaScript
