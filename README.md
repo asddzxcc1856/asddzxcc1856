@@ -9,10 +9,10 @@ Learning :
 - 🌱 I’m currently learning C/C++/Python/Java/Html/Css/JavaScript
 
 Contest :
-- 資訊學科能力競賽地區賽 (佳作) (高中)
-- TOI  (參賽) (高中)
-- NPSC (參賽) (高中)
-- APCS (5+4)  (高中)
+- 資訊學科能力競賽地區賽 (佳作)
+- TOI  (參賽)
+- NPSC (參賽)
+- APCS (5+4) 
 - CPE  (5/7)  (大一)
 
 Preparing :
