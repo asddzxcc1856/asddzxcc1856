@@ -2,7 +2,7 @@ Introduction :
 - 👋 Hi, I’m Mr'Wang
 
 Educational Background :                                                      
-- 🥇 彰化高中                                                
+- 🥇 彰化高中 1-11/2-14/3-14                                               
 - 💻 中興大學電資學士班
 
 Experience :
