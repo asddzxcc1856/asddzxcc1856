@@ -11,6 +11,7 @@ Experience :
 - 🎮 Minecraft百人以上遊戲伺服器主 2018-2021
 - 📄 基礎網頁設計
 - 💼 基礎插件設計
+- 🎮 基礎遊戲設計
 
 Learning : 
 - 🌱 I’m currently learning C/C++/Python/Java/Html/Css/JavaScript
