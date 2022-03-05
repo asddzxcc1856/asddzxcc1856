@@ -7,6 +7,7 @@ Educational Background :
 
 Experience :
 - 🥉 彰化高中程式競賽選手之一
+- 🥇 彰化高中資訊志工隊之一
 - 🎮 Minecraft百人以上遊戲伺服器主 2018-2021
 - 📄 基礎網頁設計
 - 💼 基礎插件設計
