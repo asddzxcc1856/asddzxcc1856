@@ -31,7 +31,7 @@ Preparing :
 Online Judge :
 - ZeroJudge (353) 
 - Green Judge (232)
-- UVA Online Judge (131)
-- Codeforces (82)
+- UVA Online Judge (138)
+- Codeforces (91)
 - leetcode (62)
 - TIOJ (40)
