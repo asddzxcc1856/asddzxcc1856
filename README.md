@@ -36,6 +36,7 @@ Online Judge :
 - leetcode (87)
 - TIOJ (40)
 
+Status :
 - Leetcode
 
 ![image](https://user-images.githubusercontent.com/59413200/184604211-68e41796-6106-4e96-905c-a8188ae6397f.png)
