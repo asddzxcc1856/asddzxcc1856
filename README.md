@@ -45,3 +45,8 @@ Status :
 - UVA
 
 ![image](https://user-images.githubusercontent.com/59413200/184604286-b5d386a7-4980-4065-8a5a-e5d6ca8956b9.png)
+
+- zerojudge
+
+![image](https://user-images.githubusercontent.com/59413200/184604656-e0c1ae4b-47eb-4329-969c-7bc74a7e7467.png)
+
