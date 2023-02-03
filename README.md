@@ -38,8 +38,8 @@ Online Judge :
 - TIOJ (40)
 
 Project :
-- https://nchuclass.axisflow.biz
-- https://asddzxcc1856.github.io/minecraft-template/
+- 中興大學排課系統+React https://nchuclass.axisflow.biz
+- 麥塊伺服器模板+React+Bootstrap5 https://asddzxcc1856.github.io/minecraft-template/
 
 Status :
 - Leetcode
