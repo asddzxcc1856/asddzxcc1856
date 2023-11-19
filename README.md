@@ -28,6 +28,7 @@ Contest :
 - APCS (5+4) 
 - CPE  (5/7)  (大一)
 - NCPC (佳作)  (大二)
+- NCPC (佳作)  (大三)
 
 Preparing :
 - ICPC (大學)
