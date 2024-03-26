@@ -8,7 +8,7 @@ Project :
 
 Educational Background :                                                      
 - 🥇 彰化高中 1-11/2-14/3-14                                               
-- 💻 中興大學電資學士班 大二
+- 💻 中興大學電資學士班 大三
 
 Experience :
 - 🥉 彰化高中程式競賽選手之一
