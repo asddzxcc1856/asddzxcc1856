@@ -11,15 +11,23 @@ Educational Background :
 - 💻 中興大學電資學士班 大三
 
 Experience :
+Senior High School
 - 🥉 彰化高中程式競賽選手之一
 - 🥇 彰化高中資訊志工隊之一
 - 🎮 Minecraft百人以上遊戲伺服器主 2018-2021
-- 📄 基礎網頁設計
+- 📄 基礎網頁設計(HTML/CSS/JS)
 - 💼 基礎插件設計
 - 🎮 基礎遊戲設計
+University
+- 🥉 中興電資程式競賽選手之一
+- 🥇 中興電資競賽程式社團 社長
+- 📄 網頁設計(Vue3、React漸進式框架)
+- 💼 Arduino/ESP32/Raspberry PI 智慧物聯網程式設計
+- 💼 人工智慧/機器學習/深度學習演算法設計
+
 
 Learning : 
-- 🌱 I’m currently learning C/C++/Python/Java/Html/Css/JavaScript
+- 🌱 I’m currently learning C/C++/Python/Java/Html/Css/JavaScript/TypeScript/Vue/React/MySQL
 
 Contest :
 - 資訊學科能力競賽地區賽 (佳作)
@@ -27,14 +35,19 @@ Contest :
 - NPSC (參賽)
 - APCS (5+4) 
 - CPE  (5/7)  (大一)
-- NCPC (佳作)  (大二)
-- NCPC (佳作)  (大三)
-
+- NCPC (佳作) (大二)
+- CPE  (5/7)  (大二)
+- NCPC (佳作) (大三)
+- CPE  (6/7)  (大三)
+- NCPC (佳作) (大四)
+  
 Preparing :
 - ICPC (大學)
 - NCPC (大學)
 - CPE  (大學)
-
+- 機器學習/深度學習/強化學習相關研究 (大學)
+- 智慧物聯網相關研究 (大學)
+  
 Online Judge :
 - ZeroJudge (355) 
 - Green Judge (232)
