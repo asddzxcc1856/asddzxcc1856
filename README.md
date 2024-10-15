@@ -11,6 +11,7 @@ Educational Background :
 - 💻 中興大學電資學士班 大三
 
 Experience :
+
 Senior High School
 - 🥉 彰化高中程式競賽選手之一
 - 🥇 彰化高中資訊志工隊之一
@@ -18,6 +19,8 @@ Senior High School
 - 📄 基礎網頁設計(HTML/CSS/JS)
 - 💼 基礎插件設計
 - 🎮 基礎遊戲設計
+
+  
 University
 - 🥉 中興電資程式競賽選手之一
 - 🥇 中興電資競賽程式社團 社長
