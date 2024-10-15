@@ -1,5 +1,5 @@
 Introduction :
-- 👋 Hi, I’m Mr.Wang
+- 👋 我是王智弘
 
 Project :
 - 中興大學排課系統(React) https://nchuclass.axisflow.biz
