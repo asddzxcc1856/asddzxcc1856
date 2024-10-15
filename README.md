@@ -3,7 +3,6 @@ Introduction :
 
 Project :
 - 中興大學排課系統(React) https://nchuclass.axisflow.biz
-- 麥塊伺服器模板(React+Bootstrap5+AOS) https://asddzxcc1856.github.io/minecraft-template/
 - 以強化學習為基礎透過漸進式的擴增模型複雜度在遊戲上的應用
 
 
