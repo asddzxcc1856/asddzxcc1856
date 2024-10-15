@@ -31,7 +31,11 @@ University
 
 
 Learning : 
-- 🌱 I’m currently learning C/C++/Python/Java/Html/Css/JavaScript/TypeScript/Vue/React/MySQL
+- 🌱 C/C++/Python/Java
+- 🌱 Html/Css/JavaScript/TypeScript/Vue/React/MySQL
+- 🌱 ML/DL/RL/Tensorflow/Keras/Pytorch
+
+
 
 Contest :
 - 資訊學科能力競賽地區賽 (佳作)
