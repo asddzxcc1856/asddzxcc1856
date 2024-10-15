@@ -57,7 +57,7 @@ Online Judge :
 - Green Judge (232)
 - UVA Online Judge (152)
 - Codeforces (91)
-- leetcode (87)
+- leetcode (119)
 - TIOJ (40)
 
 Status :
