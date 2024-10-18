@@ -4,6 +4,10 @@ Introduction :
 Project :
 - 中興大學排課系統(React) https://nchuclass.axisflow.biz
 - 以強化學習為基礎透過漸進式的擴增模型複雜度在遊戲上的應用
+- 遠端控制系統
+- 以強化學習在Connect 4 棋盤式遊戲上的應用
+- Youbike2.0 借還站點推薦及預測系統
+- 台北旅遊排程系統
 
 
 Educational Background :                                                      
