@@ -1,23 +1,30 @@
-Introduction :
-- 👋 我是王智弘
+## Introduction :
+### 👨‍💻 王智弘（Wang Chih-Hung）
 
-Project :
-- 中興大學排課系統(React) https://nchuclass.axisflow.biz
-- 以強化學習為基礎透過漸進式的擴增模型複雜度在遊戲上的應用
-- 遠端控制系統
-- 以強化學習在Connect 4 棋盤式遊戲上的應用
-- Youbike2.0 借還站點推薦及預測系統
-- 台北旅遊排程系統
+具備資訊科學背景與多項跨領域專案經驗，熟悉機器學習、強化學習與前端開發，現就讀於**國立陽明交通大學 數據科學與工程研究所**。擅長運用 AI 技術解決實務問題，並在競賽、開源貢獻與網站系統開發等領域持續深耕。
+
+## Project :
+
+### 🏗️ 個人專案
+
+| 專案名稱                                            | 技術重點                            |
+| ----------------------------------------------- | ------------------------------- |
+| 🔗 [中興大學課程排課系統](https://nchuclass.axisflow.biz) | React 前端開發、課表自動排程               |
+| 🎮 強化學習專題研究與設計                                  | 以強化學習為基礎透過漸進式的擴增模型複雜度在遊戲上的應用 |
+| 🎮 Connect 4 強化學習對弈系統                           | 強化學習、自我對弈演算法                    |
+| 📡 遠端控制系統                                       | ESP32 物聯網遠端操作                   |
+| 🚴‍♂️ YouBike2.0 借還站點推薦系統                       | 資料預測、推薦系統                       |
+| 🗺️ 台北旅遊排程系統                                    | 路線優化、資料可視化介面設計                  |
 
 
-Educational Background :                                                      
+## Educational Background :                                                      
 - 🥇 國立彰化高中 1-11/2-14/3-14 畢業                                               
 - 🥇 國立中興大學 電機資訊學院學士班 畢業
 - 🥇 國立陽明交通大學 數據科學與工程研究所(資訊學院) 在學
 
-Experience :
+## Experience :
 
-Senior High School
+### Senior High School
 - 🥉 彰化高中程式競賽選手之一
 - 🥇 彰化高中資訊志工隊之一
 - 🎮 Minecraft百人以上遊戲伺服器主 2018-2021
@@ -26,7 +33,7 @@ Senior High School
 - 🎮 基礎遊戲設計
 
   
-University
+### University
 - 🥉 中興電資程式競賽選手之一
 - 🥇 中興電資競賽程式社團 社長
 - 📄 網頁設計(Vue3、React漸進式框架)
@@ -35,14 +42,14 @@ University
 - 💼 大型語言模型(LLM)應用程式設計
 
 
-Learning : 
+## Learning : 
 - 🌱 C/C++/Python/Java
 - 🌱 Html/Css/JavaScript/TypeScript/Vue/React/MySQL
 - 🌱 ML/DL/RL/Tensorflow/Keras/Pytorch
 
 
 
-Contest :
+## Contest :
 - 資訊學科能力競賽地區賽 (佳作)
 - TOI  (參賽)
 - NPSC (參賽)
@@ -54,17 +61,22 @@ Contest :
 - CPE  (6/7)  (大三)
 - NCPC (佳作) (大四)
   
-Preparing :
+## Preparing :
 - 機器學習/深度學習/強化學習/大型語言模型/影像處理/電腦視覺/電腦圖學相關課程研讀 (研究所)
 - 影像處理/電腦視覺/機器學習/自駕車感知與預測系統相關論文研究 (研究所)
   
-Online Judge :
-- ZeroJudge (355) 
-- Green Judge (232)
-- UVA Online Judge (152)
-- Codeforces (91)
-- leetcode (119)
-- TIOJ (40)
+---
+
+## 🔍 Online Judge 成績 :
+
+| 平台          | 題數  |
+| ----------- | --- |
+| ZeroJudge   | 355 |
+| Green Judge | 232 |
+| UVA         | 152 |
+| Leetcode    | 119 |
+| Codeforces  | 91  |
+| TIOJ        | 40  |
 
 Status :
 - Leetcode
