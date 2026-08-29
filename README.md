@@ -9,6 +9,7 @@
 
 | 專案名稱                                            | 技術重點                            |
 | ----------------------------------------------- | ------------------------------- |
+| 🗺️ 輔助駕駛之風險物體識別在真實世界的挑戰評估框架                                    | 輔助駕駛、ADAS、Real World Challenge、Risk Object Identification、Safety、Evaluation、Validation、Framework                  |
 | 🔗 [中興大學課程排課系統](https://nchuclass.axisflow.biz) | React 前端開發、課表自動排程               |
 | 🎮 強化學習專題研究與設計                                  | 以強化學習為基礎透過漸進式的擴增模型複雜度在遊戲上的應用 |
 | 🎮 Connect 4 強化學習對弈系統                           | 強化學習、自我對弈演算法                    |
