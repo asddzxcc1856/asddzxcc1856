@@ -10,7 +10,7 @@ HCIS Lab
 
 具備**軟體工程、人工智慧與 Physical AI** 開發與研究經驗，目前就讀於**國立陽明交通大學資料科學與工程研究所**。
 
-具備從軟體開發、AI 模型開發，到 Simulation、Evaluation 與 Deployment 的系統整合能力。熟悉 **Machine Learning、Deep Learning、Reinforcement Learning、Computer Vision、Autonomous Driving 與 MLOps**，具備模型訓練、Fine-tuning、Inference、Evaluation 及 GPU-based Deployment 的實務經驗。
+具備從軟體開發、AI 模型開發，到 Simulation、Evaluation 與 Deployment 的系統整合能力。熟悉 **Machine Learning、Deep Learning、Reinforcement Learning、Computer Vision、Autonomous Driving 與 MLOps**，具備模型訓練、Fine-tuning、Inference、Evaluation的實務經驗。
 
 目前於 **HCIS Lab** 進行 Physical AI 與 Autonomous Driving 相關研究，研究方向聚焦於：
 
@@ -63,7 +63,7 @@ HCIS Lab
 
 * Conformal Risk Tube Prediction (CRTP)
 * Multiple Coexisting Risks (MCR)
-* RiskBench / RiskBench++
+* RiskBench
 * Perception Error Modeling
 * Uncertainty Quantification
 * Risk-IOU
