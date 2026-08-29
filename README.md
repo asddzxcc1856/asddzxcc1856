@@ -12,11 +12,11 @@ HCIS Lab
 
 具備從軟體開發、AI 模型開發，到 Simulation、Evaluation 與 Deployment 的系統整合能力。熟悉 **Machine Learning、Deep Learning、Reinforcement Learning、Computer Vision、Autonomous Driving 與 MLOps**，具備模型訓練、Fine-tuning、Inference、Evaluation的實務經驗。
 
-目前於 **HCIS Lab** 進行 Physical AI 與 Autonomous Driving 相關研究，研究方向聚焦於：
+目前於 **HCIS Lab** 進行 Physical AI 與 ADAS 相關研究，研究方向聚焦於：
 
 * Computer Vision
 * Physical AI
-* Autonomous Driving / ADAS
+* ADAS
 * Risk Object Identification
 * Imperfect Perception
 * Scenario-based Evaluation
