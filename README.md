@@ -210,15 +210,6 @@ HCIS Lab
 * Autoware
 * VisionPilot
 
-## AI Deployment / GPU Computing
-
-* CUDA
-* GPU Computing
-* ONNX
-* ONNX Runtime
-* Model Deployment
-* GPU Inference
-
 ## MLOps / DevOps
 
 * Docker
